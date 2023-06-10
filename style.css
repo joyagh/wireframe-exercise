@@ -1,0 +1,14 @@
+section {
+  display:flex;
+    flex-wrap: wrap;
+}
+
+.large-box {
+
+
+}
+
+.medium-box {
+
+flex-direction: row;
+}
